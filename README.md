@@ -56,6 +56,8 @@
 </details>
 
 
+### [Our Kanband Board Project task allocation](https://github.com/users/AlierPM/projects/4/views/1?layout=board)
+
 ### Key Features <a name="key-features"></a>
 
 - **Uses the RoR framework following MVC architecture**
