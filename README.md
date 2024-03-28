@@ -88,7 +88,7 @@ Clone this repository to your desired folder:
 
 Install the dependencies:
 
-- gem install
+- bundle install
 
 - yarn install/npm install
 
